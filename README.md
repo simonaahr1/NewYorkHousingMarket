@@ -32,7 +32,7 @@ Metrics: MSE, MAE, and R² score.
 # How to Run
 1. Install requirements
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 2. Prepare your data
 Put your dataset in the data/ folder, named NY-House-Dataset.csv.
