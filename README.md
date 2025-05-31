@@ -10,21 +10,21 @@ ZIP code extraction, borough/region detection, distances to key landmarks (city 
 
 Multiple ML Models:
 
-Linear Regression
+-Linear Regression
 
-Random Forest
+-Random Forest
 
-Neural Network (Keras)
+-Neural Network (Keras)
 
 Robust Preprocessing:
 
-Outlier removal
+-Outlier removal
 
-Log transformation of target variable
+-Log transformation of target variable
 
-Target encoding for categorical features
+-Target encoding for categorical features
 
-Scaling for neural network
+-Scaling for neural network
 
 Model Evaluation:
 Metrics: MSE, MAE, and R² score.
