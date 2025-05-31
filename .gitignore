@@ -210,3 +210,8 @@ df_nn.csv
 *.sublime-workspace
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+data/
+models/
+scalers/
+*.csv
