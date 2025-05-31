@@ -192,3 +192,21 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+.idea/
+
+# Results and output files
+df_lr.csv
+df_rf.csv
+df_nn.csv
+
+# Environment variables
+.env
+.env.*
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
